@@ -1,25 +1,25 @@
 # Site Settings
-name: TryHard Coder
-title: TryHard Coder | A blog for Data Scientists and AI Aspirants
-description: TryHard Coder is a blog maintanined by Abhinav Kumar Dubey, and aspiring AI researcher. The aim is to provide support to all beginners.
+name: ANOVA
+title:  - The Data Science Club
+description: ANOVA is a blog maintanined by the Club, and its Members. The aim is to provide support to all beginners.
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: abhinavrubitry@gmail.com
+email: datascienceclubanova@gmail.com
 disqus_username: disqus_username
 show_hero: true
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: rubitry
-facebook_username: rubitry212
-twitter_username: rubitryofficial
-instagram_username: abhi9._
-linkedin_username: rubitryofficial
+github_username: anovadsc
+facebook_username: 
+twitter_username: 
+instagram_username: anova_ds
+linkedin_username: 
 medium_username: medium_username
 
 
